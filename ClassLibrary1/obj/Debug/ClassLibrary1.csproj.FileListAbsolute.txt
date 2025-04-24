@@ -1,6 +1,0 @@
-C:\Users\kk722\source\repos\ClassLibrary1\bin\ClassLibrary1.dll
-C:\Users\kk722\source\repos\ClassLibrary1\bin\ClassLibrary1.pdb
-C:\Users\kk722\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
-C:\Users\kk722\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
-C:\Users\kk722\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\Users\kk722\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
